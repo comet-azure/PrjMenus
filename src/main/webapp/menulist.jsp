@@ -28,7 +28,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>메뉴 만들기</title>
 </head>
 <body>
 	<h2>메뉴 목록</h2>
